@@ -1,0 +1,97 @@
+[{
+    "id": 1,
+    "name": "Original Xiaomi Mi Band 3 Smart Muñequera Brazalete 0.78 in (approx. 1.98 cm) pantalla táctil OLED",
+    "price": 44.82,
+    "quantity": 2,
+    "sku": 1,
+    "images": ["https://i.ebayimg.com/images/g/e3AAAOSwvjBbFRid/s-l600.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Nuevo LG G7 ThinQ 64 GB Aurora Negro 4G LTE 6.1 Octa Core Android 8.0 Sim Gratis Reino Unido",
+    "price": 805.10,
+    "quantity": 10,
+    "sku": 2,
+    "images": ["https://i.ebayimg.com/images/g/iwUAAOSw5PJa9GtW/s-l600.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "2018 nuevo lanzamiento le Technic Bugatti Chiron 42083 Totalmente Nuevo Sin Caja copia",
+    "price": 197.99,
+    "quantity": 5,
+    "sku": 3,
+    "images": ["https://i.ebayimg.com/images/g/Nf0AAOSwruVbGAcU/s-l500.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Real Madrid Chaqueta Sudadera Universidad Varsity Logotipo Bordado Fútbol Ucl Nuevo",
+    "price": 39.99,
+    "quantity": 5,
+    "sku": 4,
+    "images": ["https://i.ebayimg.com/images/g/QaUAAOSwdfZbBYhE/s-l600.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Jordan XI Retro 11 Air Tapa y Gown noche de graduación para hombres talla 10",
+    "price": 300.00,
+    "quantity": 5,
+    "sku": 5,
+    "images": ["https://i.ebayimg.com/images/g/FjUAAOSwkgZbF~tZ/s-l500.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "2018 nuevo lanzamiento le Technic Bugatti Chiron 42083 Totalmente Nuevo Sin Caja copia",
+    "price": 197.99,
+    "quantity": 5,
+    "sku": 6,
+    "images": ["https://i.ebayimg.com/images/g/Nf0AAOSwruVbGAcU/s-l500.jpg"]
+  }, 
+  {
+    "id": 7,
+    "name": "Nikon D7200 24,2 Mp Formato Dx del Sensor Cmos Digital Slr Cuerpo (negro) Nuevo",
+    "price": 749.95,
+    "quantity": 2,
+    "sku": 7,
+    "images": ["https://i.ebayimg.com/images/g/aIYAAOSwirFbFGSt/s-l500.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "DJI Mavic Air-Rojo Fuego Drone - 4K Cámara, 32MP Esfera panoramas!",
+    "price": 799.00,
+    "quantity": 10,
+    "sku": 8,
+    "images": ["https://i.ebayimg.com/images/g/iwUAAOSw5PJa9GtW/s-l600.jpg"]
+  },
+  {
+    "id": 9,
+    "name": "Cree T6 LED Linterna Antorcha Táctica Militar 50000 lm ampliable 5-Modo para 18650",
+    "price": 3.99,
+    "quantity": 5,
+    "sku": 9,
+    "images": ["https://i.ebayimg.com/images/g/Nf0AAOSwruVbGAcU/s-l500.jpg"]
+  },
+  {
+    "id": 10,
+    "name": "Xiaomi Redmi 4X 4100 mAh 32GB/64GB teléfono inteligente 5.5 Note 13.0MP+5.0MP Doble Sim",
+    "price": 136.99,
+    "quantity": 5,
+    "sku": 10,
+    "images": ["https://i.ebayimg.com/images/g/Px8AAOSwiQ9ZROn-/s-l500.jpg"]
+  },
+  {
+    "id": 11,
+    "name": "Keychain Funko Pocket Pop! Baby Groot, Giant, Dead Pool Vinyl Spider Iron Man",
+    "price": 4.19,
+    "quantity": 5,
+    "sku": 11,
+    "images": ["https://i.ebayimg.com/images/g/aOwAAOSwT2NauGwj/s-l500.jpg"]
+  },
+  {
+    "id": 12,
+    "name": "Samsung Galaxy S9 SM-G960F/DS 64 GB Doble Sim (Desbloqueado en Fábrica) Elige tu Color",
+    "price": 679.99,
+    "quantity": 5,
+    "sku": 12,
+    "images": ["https://i.ebayimg.com/images/g/O3MAAOSwtndamb5v/s-l600.jpg"]
+  }
+]
